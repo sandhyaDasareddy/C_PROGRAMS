@@ -22,7 +22,7 @@ int main()
     printf("Size of float = %lu bytes\n", sizeof(b));
     printf("Size of char = %lu bytes\n", sizeof(c));
     printf("Size of double = %lu bytes\n", sizeof(d));
-
+    
     printf("\nSizes of Data Types directly:\n");
     printf("Size of int = %lu bytes\n", sizeof(int));
     printf("Size of float = %lu bytes\n", sizeof(float));
@@ -31,3 +31,19 @@ int main()
 
     return 0;
 }
+
+
+/*
+Output:-
+-------
+Size of int = 4 bytes
+Size of float = 4 bytes
+Size of char = 1 bytes
+Size of double = 8 bytes
+
+Sizes of Data Types directly:
+Size of int = 4 bytes
+Size of float = 4 bytes
+Size of char = 1 bytes
+Size of double = 8 bytes
+*/

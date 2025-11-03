@@ -54,19 +54,19 @@ int main()
 }
 
 /*
-Output 1:
+case-1:
 ---------
-Enter a number: 10
+Enter a number: 5
 The number is Positive.
 Thank you for checking your number status.
 
-Output 2:
+case-2:
 ---------
 Enter a number: -5
 The number is Negative.
 Thank you for checking your number status.
 
-Output 3:
+case-3:
 ---------
 Enter a number: 0
 The number is Zero.

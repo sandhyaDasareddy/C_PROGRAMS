@@ -41,3 +41,15 @@ int main()
 
     return 0;
 }
+
+/*
+Output:-
+-------
+Enter the name in three parts (e.g., SBTET AP MANGALAGIRI): SBTET AP MANGAL
+AGIRI
+
+(a) SBTET. AP. MANGALAGIRI
+(b) SBTET AP MANGALAGIRI
+(c) SBTETAP MANGALAGIRI
+(d) SBTET.AP
+*/

@@ -43,5 +43,4 @@ Output:
 --------------
 Enter a number: 5
 Factorial of 5 = 120
-Thank you for using the factorial program.
 */

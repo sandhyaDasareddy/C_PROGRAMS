@@ -79,3 +79,25 @@ int main()
 
     return 0;
 }
+
+
+/*
+Output:--
+Enter the number of rows: 3
+Enter the number of columns: 4
+
+Enter elements of Matrix A:
+7 4 1 2 
+5 7 8 9 
+2 4 7 6
+
+Enter elements of Matrix B:
+1 2 3 4 
+5 2 4 1
+9 7 6 7
+
+Resultant Matrix (A + B):
+8       6       4       6
+10      9       12      10
+11      11      13      13
+*/

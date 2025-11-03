@@ -42,5 +42,4 @@ int main()
 Output:
 --------------
 Sum of odd numbers from 1 to 50 = 625
-Thank you for checking the sum of odd numbers.
 */

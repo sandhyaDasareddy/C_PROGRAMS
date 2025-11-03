@@ -40,4 +40,6 @@ int main()
 /*
 Output:
 ---------------
+Enter a number: 7852
+Sum of even digits = 10
 */

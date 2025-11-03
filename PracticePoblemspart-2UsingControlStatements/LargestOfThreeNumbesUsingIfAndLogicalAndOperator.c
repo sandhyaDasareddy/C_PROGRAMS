@@ -37,9 +37,8 @@ int main()
 }
 
 /*
-Sample Output:
+Output:
 ---------------
-Enter three numbers: 12 45 33
-45 is the largest number.
-Thank you for checking the largest number using if and &&.
+Enter three numbers: 5 8 7
+8 is the largest number.
 */

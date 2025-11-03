@@ -1,8 +1,7 @@
 /*
-Operators in C Language
-🧠 Definition:
-
-Operators are symbols that tell the compiler to perform specific mathematical or logical operations on variables and values.
+Operators:---
+------------------
+Definition:- Operators are symbols that tell the compiler to perform specific mathematical or logical operations on variables and values.
 They are used to manipulate data and variables in a program.
 
 For example:
@@ -50,3 +49,13 @@ int main()
     printf("Modulus = %d\n", a % b);
     return 0;
 }
+
+/*
+Output:-
+------
+Addition = 15
+Subtraction = 5
+Multiplication = 50
+Division = 2
+Modulus = 0
+*/

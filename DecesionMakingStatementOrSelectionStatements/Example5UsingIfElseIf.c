@@ -2,11 +2,6 @@
 Program: Check Whether the Given Number is Positive, Negative, or Zero Using if–else if
 ---------------------------------------------------------------------------------------
 
-Header File Explanation:
-------------------------
-#include <stdio.h>
-→ Used for standard input and output functions like printf() and scanf().
-
 About if–else if–else Statement:
 --------------------------------
 → The if–else if ladder is used when we have **multiple conditions** to test.
@@ -56,19 +51,19 @@ int main()
 }
 
 /*
-Sample Output 1:
+case-1:
 ----------------
 Enter a number: 25
 The number is Positive.
 Thank you for checking your number status.
 
-Sample Output 2:
+case-2:
 ----------------
 Enter a number: -15
 The number is Negative.
 Thank you for checking your number status.
 
-Sample Output 3:
+case-3:
 ----------------
 Enter a number: 0
 The number is Zero.

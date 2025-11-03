@@ -45,15 +45,13 @@ notleap:
 }
 
 /*
-Output 1:
+case-1:
+----------
+Enter a year: 5000
+5000 is NOT a Leap Year.
+
+case-2:
 ----------
 Enter a year: 2024
 2024 is a Leap Year.
-Thank you for checking leap year status using goto.
-
-Output 2:
-----------
-Enter a year: 2023
-2023 is NOT a Leap Year.
-Thank you for checking leap year status using goto.
 */

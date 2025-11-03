@@ -60,3 +60,12 @@ int main()
 
     return 0;
 }
+ 
+/*
+Output:---
+-------
+Elements of the 2D array are:
+10      20      30
+40      50      60
+
+*/

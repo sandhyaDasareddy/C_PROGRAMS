@@ -41,5 +41,13 @@ int main()
 /*
 Output 1:
 ---------
-*/
 
+case-1:
+Enter your marks: 37
+Congratulations! You have passed the exam.
+Thank you for checking your result status.
+
+case-2:
+Enter your marks: 34
+Thank you for checking your result status.
+*/

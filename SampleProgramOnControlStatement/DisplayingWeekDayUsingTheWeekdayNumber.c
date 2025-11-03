@@ -67,9 +67,9 @@ int main()
 }
 
 /*
-Sample Output:
+Output:
 --------------
-Enter weekday number (1 to 7): 3
-Tuesday
+Enter weekday number (1 to 7): 6
+Friday
 Thank you for checking the weekday.
 */

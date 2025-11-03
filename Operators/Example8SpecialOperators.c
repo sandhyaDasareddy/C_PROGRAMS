@@ -61,3 +61,20 @@ int main()
 
     return 0;
 }
+
+
+/*
+Output:-
+-------
+Size of int = 4 bytes
+Size of float = 4 bytes
+Size of char = 1 bytes
+Address of a = 0061FF08
+Value of a using pointer = 10
+Greater number = 20
+Value of c = 15
+Student ID (using .) = 1
+Student Marks (using .) = 85.5
+Student ID (using ->) = 1
+Student Marks (using ->) = 85.5
+*/

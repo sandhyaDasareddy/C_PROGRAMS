@@ -53,3 +53,17 @@ int main() {
 
     return 0;
 }
+
+
+/*
+Output:-
+------
+Enter Roll Number: 417
+Enter Name: sandhya
+Enter Marks: 79
+
+--- Student Details ---
+Roll Number: 417
+Name: sandhya
+Marks: 79.00        
+*/

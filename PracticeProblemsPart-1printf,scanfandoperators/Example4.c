@@ -30,3 +30,10 @@ int main()
 
     return 0;
 }
+
+/*
+Output:-
+--------
+Enter three numbers: 8 7 9
+The largest number is: 9
+*/

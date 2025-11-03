@@ -40,7 +40,7 @@ int main()
 }
 
 /*
-Sample Output:
+Output:
 --------------
 * * * * *
 * * * * *

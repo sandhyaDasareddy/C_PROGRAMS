@@ -46,3 +46,11 @@ int main()
 
     return 0;
 }
+
+/*
+Output:--
+------
+Integer value: 10
+Float value: 5.25
+Character value: A
+*/

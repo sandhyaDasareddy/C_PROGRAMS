@@ -24,3 +24,10 @@ int main()
 
     return 0;
 }
+
+/*
+Output:-
+-------
+Enter temperature in Celsius: 34
+Temperature in Fahrenheit = 93.20
+*/

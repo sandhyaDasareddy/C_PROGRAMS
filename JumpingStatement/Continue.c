@@ -33,5 +33,4 @@ Output:
 Using continue statement:
 1 2 3 4 6 7 8 9 10 
 Number 5 was skipped using continue.
-Thank you for checking continue example.
 */

@@ -35,3 +35,12 @@ int main()
 
     return 0;
 }
+
+/*
+Output:-
+-------
+Enter Principal amount: 50000
+Enter Time (in years): 5 
+Enter Rate of Interest: 5
+Simple Interest = 12500.00
+*/

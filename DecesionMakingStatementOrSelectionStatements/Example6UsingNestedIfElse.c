@@ -2,11 +2,6 @@
 Program: Find Grade of a Student Using Nested if–else
 -----------------------------------------------------
 
-Header File Explanation:
-------------------------
-#include <stdio.h>
-→ Used for standard input and output functions like printf() and scanf().
-
 About Nested if–else Statement:
 -------------------------------
 → In nested if–else, one if statement is written inside another if or else block.

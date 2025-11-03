@@ -27,3 +27,11 @@ int main()
 
     return 0;
 }
+
+/*
+Output:-
+--------
+Enter first number: 5
+Enter second number: 7
+Average = 6.00
+*/

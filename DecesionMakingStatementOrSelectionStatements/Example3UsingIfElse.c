@@ -47,13 +47,13 @@ int main()
 /*
 Sample Output 1:
 ----------------
-Enter a number: 25
+Enter a number: 12
 The number is greater than 10.
 Thank you for checking your number status.
 
 Sample Output 2:
 ----------------
-Enter a number: 8
+Enter a number: 5
 The number is not greater than 10.
 Thank you for checking your number status.
 */

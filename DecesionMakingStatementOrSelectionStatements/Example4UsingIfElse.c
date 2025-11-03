@@ -2,11 +2,6 @@
 Program: Check Whether a Student is Passed or Failed
 ----------------------------------------------------
 
-Header File Explanation:
-------------------------
-#include <stdio.h>
-→ This header file allows us to use standard input and output functions like printf() and scanf().
-
 About if–else Statement:
 ------------------------
 → The if–else statement helps to make a decision based on a condition.

@@ -2,11 +2,6 @@
 Program: Print numbers from 0 to 9 and find their sum using while loop
 -----------------------------------------------------------------------
 
-Header File Explanation:
-------------------------
-#include <stdio.h>
-→ Used for standard input/output functions like printf() and scanf().
-
 About While Loop:
 -----------------
 → A while loop is used when the number of iterations is not fixed.
@@ -53,5 +48,17 @@ int main()
 /*
 Output:-
 -------
+Numbers from 0 to 9 are:
+Value = 0
+Value = 1
+Value = 2
+Value = 3
+Value = 4
+Value = 5
+Value = 6
+Value = 7
+Value = 8
+Value = 9
 
+Sum of digits from 0 to 9 = 45
 */

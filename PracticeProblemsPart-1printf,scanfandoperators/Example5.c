@@ -32,3 +32,11 @@ int main()
 
     return 0;
 }
+
+
+/*
+Output:-
+-------
+Enter a four-digit number: 5824
+Sum of digits = 19
+*/

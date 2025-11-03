@@ -36,7 +36,11 @@ int main()
 Output:
 --------------
 Using break statement:
-1 2 3 4 5 
+1
+2
+3
+4
+5
+
 Loop terminated when i = 6
-Thank you for checking break example.
 */

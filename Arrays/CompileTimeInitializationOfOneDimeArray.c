@@ -13,3 +13,14 @@ int main()
 
     return 0;
 }
+
+/*
+Output:-
+------
+Marks of 5 students:
+Student 1: 80
+Student 2: 90
+Student 3: 75
+Student 4: 85
+Student 5: 95
+*/

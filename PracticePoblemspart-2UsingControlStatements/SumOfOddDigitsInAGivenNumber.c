@@ -39,5 +39,6 @@ int main()
 /*
 Output:
 ---------------
-
+Enter a number: 57813
+Sum of odd digits = 16
 */

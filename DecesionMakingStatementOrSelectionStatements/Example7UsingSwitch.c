@@ -2,7 +2,6 @@
 Program: Display Grade Using Switch Case
 ----------------------------------------
 
-
 About Switch Statement:
 -----------------------
 → The switch statement is used to perform different actions based on the value of an expression.
@@ -70,13 +69,13 @@ int main()
 }
 
 /*
-Sample Output 1:
+case-1:
 ----------------
 Enter your grade (A/B/C/D/F): A
 Excellent! Keep it up!
 Thank you for checking your grade status.
 
-Sample Output 2:
+case-2:
 ----------------
 Enter your grade (A/B/C/D/F): f
 You have failed. Better luck next time.

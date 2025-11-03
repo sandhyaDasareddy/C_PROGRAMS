@@ -58,7 +58,14 @@ int main()
 
     return 0;
 }
- /*
- Output:
- ------
+
+
+/*
+Output:
+-------
+Initial value of a = 5
+After prefix increment (++a): a = 6, b = 6
+After postfix increment (a++): a = 7, b = 6
+After prefix decrement (--a): a = 6, b = 6
+After postfix decrement (a--): a = 5, b = 6
  */

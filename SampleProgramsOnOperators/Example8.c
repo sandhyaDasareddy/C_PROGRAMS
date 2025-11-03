@@ -36,3 +36,14 @@ int main()
 
     return 0;
 }
+
+/*
+Output:-
+-------
+Enter radius of the circle: 5
+Area of Circle = 78.50
+Enter side of the square: 7
+Area of Square = 49.00
+Enter length and breadth of the rectangle: 4 8
+Area of Rectangle = 32.00
+*/

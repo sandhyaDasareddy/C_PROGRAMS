@@ -46,5 +46,7 @@ int main()
 /*
 Output:
 ---------------
-
+Enter a number: 16128
+Sum of digits = 18
+Average of digits = 3.60
 */

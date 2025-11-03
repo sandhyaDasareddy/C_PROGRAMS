@@ -46,5 +46,7 @@ int main()
 /*
 Output:
 ---------------
+Enter two numbers: 20 50
+GCD of the given numbers = 10
 
 */

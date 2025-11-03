@@ -24,3 +24,10 @@ int main()
 
     return 0;
 }
+
+/*
+Output:-
+--------
+Enter your age: 52
+You are eligible to vote.
+*/

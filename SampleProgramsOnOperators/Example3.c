@@ -29,3 +29,9 @@ int main()
 
     return 0;
 }
+
+/*
+Output:-
+------
+The value of c = 655
+*/

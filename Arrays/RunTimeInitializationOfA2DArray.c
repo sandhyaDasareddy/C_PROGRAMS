@@ -65,6 +65,25 @@ int main()
 
 
 /*
+Output:--
+-------
 
+Enter the number of rows: 3
+Enter the number of columns: 3
+Enter the elements of the 2D array:
+5
+4
+9
+78
+35
+12
+54
+84
+5
+
+The elements of the 2D array are:
+5       4       9
+78      35      12
+54      84      5
 
 */

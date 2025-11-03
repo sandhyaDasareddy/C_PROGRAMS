@@ -44,7 +44,7 @@ int main()
 }
 
 /*
-Sample Output:
+Output:
 --------------
 Numbers from 0 to 5 are:
 0 1 2 3 4 5

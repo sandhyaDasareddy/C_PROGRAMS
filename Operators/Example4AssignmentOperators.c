@@ -61,3 +61,15 @@ int main()
 
     return 0;
 }
+
+
+/*
+Output:-
+-------
+Initial value of a = 10
+After a += b : 15
+After a -= b : 10
+After a *= b : 50
+After a /= b : 10
+After a %= b : 0
+*/
